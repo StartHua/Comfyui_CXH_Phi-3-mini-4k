@@ -1,6 +1,8 @@
 # Comfyui_CXH_Phi-3-mini-4k
 
-环境依赖要求：transformers>=4.40.0，手动升级：pip uninstall -y transformers && pip install git+https://github.com/huggingface/transformers
+环境依赖要求：transformers>=4.40.0，
+
+手动升级：pip uninstall -y transformers && pip install git+https://github.com/huggingface/transformers
 
 pip install -r requirements.txt
 
