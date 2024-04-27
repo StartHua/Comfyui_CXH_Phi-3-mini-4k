@@ -1,0 +1,7 @@
+#torch
+#torchvision
+numpy
+pillow
+huggingface_hub
+transformers
+transformers && pip install git+https://github.com/huggingface/transformers #yes need
