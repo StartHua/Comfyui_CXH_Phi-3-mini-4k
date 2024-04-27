@@ -4,4 +4,4 @@ numpy
 pillow
 huggingface_hub
 transformers
-transformers && pip install git+https://github.com/huggingface/transformers #yes need
+# git+https://github.com/huggingface/transformers #yes need
